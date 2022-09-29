@@ -12,7 +12,7 @@
 По нажатии на название репозитория в результате выдачи, должен быть переход на страницу репозитория внутри приложения. Туда нужно подтянуть расширенную информацию по репозиторию (не обязательно много, скорее нужна та информация которая не возвращается в результатах поиска). 
 
 
-## [SEE RESULT](https://vercel.com/missnatalip-mailru/github-search-test)
+## [SEE RESULT](https://github-search-vue.vercel.app/)
 
 ## Technologes: Vue, Vuex, Vue-router, Vuetify, axios, moment
 
